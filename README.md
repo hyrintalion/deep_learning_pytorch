@@ -15,3 +15,6 @@ https://www.coursera.org/specializations/machine-learning-introduction
 4. Also, from time to time I'm taking look on https://www.kaggle.com/ challenges, but looks like it is a bit too early for that
 
 If by the chance you want to join me, write to @hyrintalion in telegram or just comment something here.
+
+
+#learn_in_public
